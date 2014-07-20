@@ -9,7 +9,7 @@
         "url"  : "https://github.com/hbouvier/redisctl.git"
     },
     "dependencies"         : {
-        "redisd"       : "0.0.7",
+        "redisd"       : "0.0.10",
         "node-options" : "0.0.3",
         "winston"      : "0.7.2",
         "redis"        : "0.10.3"
