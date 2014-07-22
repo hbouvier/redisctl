@@ -2,7 +2,7 @@
     "author"      : "Henri Bouvier",
     "name"        : "redisctl",
     "description" : "A redis client",
-    "version"     : "0.0.2",
+    "version"     : "0.0.3",
     "keywords"    : ["redis"],
     "repository"  : {
         "type" : "git",
@@ -19,7 +19,7 @@
     },
     "main" : "./lib/redisctl.js",
     "bin"  : {
-        "redisd" : "./bin/redisctl"
+        "redisctl" : "./bin/redisctl"
     },
     "scripts": {
         "start": "bin/redisctl"
